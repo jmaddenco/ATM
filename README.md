@@ -39,4 +39,4 @@ Step 7: Now that you have opend and saved everything you can open your code in b
 ### Questions
  - Confused on how to display the users name and amount without giving the pin.
  - Do we use Gosu for the interface or can we use something else?
- - How do you let the userer use his mouse whout it dissapearing once hovered over 
+ - How do you let the userer use his mouse whout it dissapearing once hovered over the Gosu popout window? 
